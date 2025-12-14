@@ -95,10 +95,31 @@
    - ul(unordered list) 태그는 순서가 없는 비순서형 목록을 생성할 때 사용.
    - ```
      <ul>
-       <li></li>
-       <li></li>
+       <li>목록 내용 1</li>
+       <li>목록 내용 2</li>
+       <li>목록 내용 3</li>
      </ul>
    - ul 태그를 사용하면, 글머리 기호(bullet point)가 붙음.
 2. ol(ordered list) 태그
    - 순서형 목록을 생성할 때 사용.
+   - ```html
+     <ol>
+       <li>목록 내용 1</li>
+       <li>목록 내용 2</li>
+       <li>목록 내용 3</li>
+     </ol>
+   - ol 태그를 사용하면, 목록 내용에 번호가 붙음.
+3. dl(description list) 태그
+   - 정의형 목록을 만들 때 사용.
+   - 정의형 목록은 용어와 용어 설명을 나열한 형태의 목록
+   - li 태그 대신, dt(description term) 태그로 용어를, dd(description details) 태그로 용어 설명을 작성.
+   - ```html
+     <dl>
+       <dt>용어 1</dt>
+         <dd>용어 설명1</dd>
+       <dt>용어 2</dt>
+         <dd>용어 설명 2</dd>
+     </dl>
+
+
 
