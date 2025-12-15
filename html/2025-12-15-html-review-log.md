@@ -186,6 +186,33 @@
   ```
 * HTML과 마찬가지로 웹 브라우저에서 소스 보기로 보면 주석 내용이 노출되므로 중요한 정보를 적으면 안됨.
 
+## 4.2 CSS 적용
+
+### 내부 스타일 시트(internal style sheet) 사용
+- 형식
+  ```html
+  <style>
+    /* CSS code */
+  </style>
+  ```
+  
+### 외부 스타일 시트(external style sheet) 사용 <br>
+- 형식
+  ```html
+  <link rel="stylesheet" href="css 파일 경로">
+  ```
+
+### 인라인 스타일(inline style) 사용
+- 형식 `<태그 style="CSS code"></태그>`
+* 선택자 부분이 필요 없음.
+- 예
+  ```html
+  <body>
+    <h1 style="color:red; font-size:24px">인라인 스타일</h1>
+  </body>
+  ```
+
+
 
 
 
