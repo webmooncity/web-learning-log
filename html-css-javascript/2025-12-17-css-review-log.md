@@ -23,3 +23,30 @@
 
 ---
 
+## CSS 필수 속성
+
+## 6.1 CSS의 특징
+
+- 기본 스타일 시트
+- 적용 우선순위와 개별성, CSS(Cascading Style Sheets)
+- 상속(inherit) : CSS 속성은 상속된다. 단, 상속되지 않는 속성도 있음. 그러나 외울 필요는 없음.
+- 단위 : 절대 단위, 상대 단위
+- 색상 표기법 : 키워드 표기법, RGB 색상 표기법, HEX 표기법
+
+---
+
+## 6.2 텍스트 속성
+
+- font-family, font-size, font-weight, font-style, font-variant
+- color
+- text-align, text-decoration
+- letter-spacing
+- line-height
+
+## 6.3 박스 모델(box model)을 구성하는 속성
+
+- margin, border, padding, content
+- 박스 모델 성격 : block, inline, inline-block
+- display 속성
+
+---
