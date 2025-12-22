@@ -42,18 +42,18 @@
 
 * 헷갈리는 것 ChatGPT에 알아본 것<br>
   ```
-  [함수 정의 방법]<br>
-  ├─ 함수 선언문 (statement)<br>
-  │    └─ function foo() {}<br>
-  │<br>
-  └─ 함수 표현식 (expression)<br>
-       ├─ 익명 함수 표현식<br>
-       │    └─ const a = function () {}<br>
-       │<br>
-       ├─ 네이밍 함수 표현식<br>
-       │    └─ const a = function foo() {}<br>
-       │<br>
-       └─ 화살표 함수 표현식<br>
+  [함수 정의 방법]
+  ├─ 함수 선언문 (statement)
+  │    └─ function foo() {}
+  │
+  └─ 함수 표현식 (expression)
+       ├─ 익명 함수 표현식
+       │    └─ const a = function () {}
+       │
+       ├─ 네이밍 함수 표현식
+       │    └─ const a = function foo() {}
+       │
+       └─ 화살표 함수 표현식
             └─ const a = () => {}
   ```
 
