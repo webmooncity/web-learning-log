@@ -17,9 +17,9 @@
 - return; : 함수 즉시 종료 + undefined 반환
 - return 값; : 함수 즉시 종료 + 값 반환
 
-* 1분 퀴드
-- 2. 
--  오답 수정 후<br>
+* 1분 퀴즈, 2번
+
+- 오답 수정 후<br>
 ```javascript
 function getArrayMaxNumber(arr){
   let max = arr[0];
@@ -67,3 +67,52 @@ console.log(max);
 ---
 
 selfchek
+
+1. 
+```
+function circleCal(r){
+    let area = r * r * 3.14
+    return area;
+}
+let circleArea01 = circleCal(10);
+let circleArea02 = circleCal(6); 
+console.log(circleArea01);
+console.log(circleArea02);
+```
+
+2. 
+```javascript
+function arrayMax(arr){
+    let max = 0;
+    for(i=0; i<arr.length; i++){
+        if(max < arr[i]){
+            max = arr[i];
+        }
+    }
+    return max;
+}
+console.log(arrayMax([1,3,2,4,5,9,31,20]));
+```
+
+3. 
+체질량 지수(BMI) = 몸무게 / 키(m)**2
+
+```javascript
+function calBmi(height, weight){
+    let bmi = weight/((height/100)**2);
+    if(bmi>=26){
+        console.log(`${bmi}:비만`)
+    }else if(bmi>=24){
+        console.log(`${bmi}:과체중`)
+    }else if(bmi>=18.5){
+        console.log(`${bmi}:정상`)
+    }else{
+        console.log(`${bmi}:저체중`)
+    }
+    return;
+}
+calBmi(174, 85);
+calBmi(174, 75);
+calBmi(174, 72);
+calBmi(174, 65);
+```
