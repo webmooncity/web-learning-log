@@ -31,7 +31,8 @@
   }
   const max = getArrayMaxNumber([10, 50, 30]);
   console.log(max);
-  ```<br>
+  ```
+  <br>
   수정 후,
   ```javascript
   function getArrayMaxNumber(arr){
