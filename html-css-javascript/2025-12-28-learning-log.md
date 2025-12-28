@@ -27,6 +27,8 @@ console.log(maxRandom);
 
 - 1분 퀴즈
 ```javascript
-console.log(arr.sort().pop());
+const arr = [10, 120, 30, 50, 20];
+arr.sort((a,b)=>b-a);
+console.log(arr[0]);
 ```
 ---
