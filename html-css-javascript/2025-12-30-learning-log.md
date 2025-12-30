@@ -38,3 +38,16 @@
     btn.addEventListener("dblclick", clickEvent)
 <script>
 ```
+
+---
+
+## 12.7, 이벤트 객체와 this
+
+* 이벤트 객체 : 이벤트 타입에 따라 발생하는 이벤트의 각종 정보가 들어 있는 객체 집합. 개발자가 직접 생성하는 것이 아니라 이벤트가 발생하면 실행되는 함수의 매개변수로 같이 전달됨.
+- 이벤트 취소, preventDefault()
+
+## Selfcheck
+
+* JavaScript review completed.
+
+---
