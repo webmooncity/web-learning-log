@@ -1,5 +1,5 @@
 # React learning, Day 00
-Date : 2026-01-4-SUN
+Date : 2026-01-04SUN
 
 ---
 
