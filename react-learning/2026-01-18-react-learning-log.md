@@ -17,7 +17,8 @@ Date : 2026-01-18 Sunday
 
 - 파스칼 케이스(PascalCase)란 각 단어의 첫 글자를 대문자로 쓰고, 공백이나 구분자 없이 이어 붙이는 표기법.
 
-- ```
+- react 서버 실행법
+  ```
   npm install
   npm run dev
   ```
