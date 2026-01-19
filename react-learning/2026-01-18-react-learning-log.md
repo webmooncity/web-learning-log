@@ -52,7 +52,7 @@ Date : 2026-01-18 Sunday
 - props(properties)는 컴포넌트를 마치 HTML 태그처럼 사용해 값을 속성 형태로 전달함.
 - 리액트에서는 부모 컴포넌트가 자식 컴포넌트에 모든 속성을 하나의 객체로 모아서 자식 컴포넌트로 전달. 이 객체를 **props 객체**라고 함.
 
-- 구조 분해 할당(destructuring assignment): 객체나 배열의 속성을 추출해 변후에 할당하는 자바스크립트 문법
+- 구조 분해 할당(destructuring assignment): 객체나 배열의 속성을 추출해 변수에 할당하는 자바스크립트 문법
 
 * 함수 시그니처(Function Signature)란? 이 함수를 어떻게 호출해야 하는지 한눈에 보여주는 정보
 
