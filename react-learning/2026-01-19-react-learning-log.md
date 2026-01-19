@@ -99,6 +99,8 @@ Date : 2026-01-19 Monday
 
 ## 4.3, useReducer 훅: 복잡한 상태 관리
 
+* useReducer 훅은 리액트에서 상태를 관리하는 또 다른 방법으로, 이전 상태와 액션에 따라 새로운 상태를 반환하는 방식. 특히 상태 변경 로직이 복잡하거나 업데이트해야 하는 경우가 많으면 useState 훅보다 더 적합할 수 있음.
+
 ### 4.3.1, useReducer 훅 기본 문법
 
 - 형식 `const [state, dispatch] = useReducer<Type>(reducer, initialState);`
@@ -111,7 +113,7 @@ Date : 2026-01-19 Monday
   - 액션 발생 함수 형식 `dispatch({ type: 'ACTION_TYPE' })`
 
 - 파일 확장자
-  * .tsx: JSX를 포함하는 파일(컴포넌트)
+  * .tsx: JSX를 포함하는 파일(컴포넌트) 
   * .ts: 유틸 함수, 리듀서, 타입 선언, API 모듈 등 JSX가 없는 파일
 
 ---
