@@ -96,3 +96,22 @@ Date : 2026-01-19 Monday
   뒤에서 또 나올 개념인가? 메모만 하고 진행!
 
 ---
+
+## 4.3, useReducer 훅: 복잡한 상태 관리
+
+### 4.3.1, useReducer 훅 기본 문법
+
+- 형식 `const [state, dispatch] = useReducer<Type>(reducer, initialState);`
+- **리듀서 함수**(reducer function)
+- **액션 발생 함수**(dispatch function)
+
+* 액션과 액션 발생 함수
+  * **액션**(action)은 리듀서 함수에서 어떤 상태 변경을 수행할지 결정하기 위해 참조하는 값.
+  - 액션 형식 `{ type: 'ACTION_TYPE', payload: 데이터 };`
+  - 액션 발생 함수 형식 `dispatch({ type: 'ACTION_TYPE' })`
+
+- 파일 확장자
+  * .tsx: JSX를 포함하는 파일(컴포넌트)
+  * .ts: 유틸 함수, 리듀서, 타입 선언, API 모듈 등 JSX가 없는 파일
+
+---
