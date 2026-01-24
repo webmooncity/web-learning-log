@@ -1,4 +1,4 @@
-# React learning, Day 09
+# React learning, Day 09(실제: Day 06)
 Date : 2026-01-24 Saturday
 
 ---
