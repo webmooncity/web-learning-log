@@ -1,5 +1,5 @@
 # React learning, Day 16 (실제: Day 08)
-Date : 2026-01-30 Friday
+Date : 2026-01-31 Saturday
 
 ---
 
