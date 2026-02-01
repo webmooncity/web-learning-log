@@ -1,5 +1,5 @@
 # React learning, Day 17 (실제: Day 09)
-Date : 2026-02-01 Monday
+Date : 2026-02-01 Sunday
 
 ---
 
@@ -25,5 +25,11 @@ Date : 2026-02-01 Monday
 ---
 
 ## selfcheck
+
+---
+
+# 8장, 폼 다루기
+
+## 8.1, 폼 정의하기
 
 ---
