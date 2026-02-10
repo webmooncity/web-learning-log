@@ -33,3 +33,16 @@ Date : 2026-02-10 Tuesday.
   * useMemo: 계산된 값을 메모이제이션
 
 ---
+
+## 11.2, 컴포넌트 메모이제이션
+
+* **컴포넌트 자체를 메모이제이션**
+
+## 11.2.1, React.memo 사용하기
+
+* **고차 컴포넌트**(higher order component): 컴포넌트를 인자로 받아 새로운 컴포넌트를 반환하는 함수를 의미함.
+  - 형식: `const MemoizedComponent = React.memo(MyComponent);`
+
+## 11.2.2, React.memo 사용 시 주의사항
+
+---
