@@ -40,3 +40,5 @@ Date : 2026-02-11 Wednesday.
 
 
 * JavaScript와 TypeScript 기초가 부족하다. React 진도가 끝나면, 더 공부해야 겠다.
+
+---
