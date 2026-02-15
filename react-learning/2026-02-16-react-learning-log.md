@@ -1,4 +1,4 @@
-# React learning, Day 31 (실제: Day 19)
+# React learning, Day 32 (실제: Day 20)
 Date : 2026-02-15 Sunday.
 
 ---
