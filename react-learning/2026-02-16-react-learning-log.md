@@ -1,5 +1,5 @@
 # React learning, Day 32 (실제: Day 20)
-Date : 2026-02-15 Sunday.
+Date : 2026-02-15 Monday.
 
 ---
 
