@@ -1,5 +1,5 @@
 # React learning, Day 34 (실제: Day 21)
-Date : 2026-02-15 Wednesday.
+Date : 2026-02-18 Wednesday.
 
 ---
 
@@ -27,5 +27,32 @@ Date : 2026-02-15 Wednesday.
 - 넘어가기. 읽어만 봤는데 잘 모르겠다.
 - 일단 진도 속도를 위해 넘어가자. 지금 꼼꼼히 하는 것보다 일단 쭈욱 진도를 나가는 것이 중요하다고 판단한다.
 - 어느 정도 빈 곳이 있어도 전반적인 틀을 잡는 것이 중요하다.
+
+---
+
+# 13장, 리액트 라우터로 라우팅 기능 사용하기.
+
+## 13.1, 라우팅 방식 이해하기.
+
+* **라우팅**(routing): 사용자가 주소(URL)를 입력하거나 버튼을 클릭했을 때 그에 맞는 화면(UI)를 보여주는 기능.
+
+- SPA vs MPA
+
+- SPA, Single Page Application.
+- CSR, Client Side Rendering.
+
+- SEO, Search Engine Optimization.
+
+- MPA, Multiple Page Application.
+- SSR, Sever Side Rendering.
+
+- history API
+
+* **리액트 라우터**(React Router): 리액트 애플리케이션에서 CSR 기반 라우팅을 간편하게 구현할 수 있도록 도와주는 라이브러리.
+
+## 13.2, 리액트 라우터 다루기
+
+* **라우팅 컨텍스트**(routing context)
+- **라우트 설정**(configuring route)
 
 ---
