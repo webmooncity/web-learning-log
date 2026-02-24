@@ -22,3 +22,10 @@ Date : 2026-02-24 Tuesday.
 * **스플랫**(splat): **catch-all** or **와일드카드**(wildcard)
 
 ---
+
+## 13.4, 내비게이션 기능 사용하기.
+
+- Link, NavLink
+- useNavigate, **프로그래밍 방식 라우팅**
+
+---
