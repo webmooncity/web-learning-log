@@ -19,6 +19,6 @@ Date : 2026-03-01 Sunday.
 - 동기: 끝날 때까지 기다림
 - 비동기: 기다리지 않고 진행, 결과는 나중에
 
-- `npx nodemon indes.js` 
+- `npx nodemon index.js` 
 
 ---
