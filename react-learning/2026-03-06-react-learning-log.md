@@ -1,5 +1,5 @@
 # React learning, Day 50 (실제: Day 27)
-Date : 2026-03-03 Tuesday.
+Date : 2026-03-06 Friday.
 
 ---
 
